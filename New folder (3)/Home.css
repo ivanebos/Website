@@ -1,0 +1,119 @@
+body{
+  margin-top:-4px;
+}
+#jingle{
+  height:200px;
+  width:100%;
+  margin-top:150px
+}
+
+#say{
+  text-decoration: none;
+  font-weight:normal;
+  font-size:70px;
+  font-family:system-ui;
+  letter-spacing: 2px;
+  margin:5px;
+}
+#say2{
+  text-decoration: none;
+  font-weight:normal;
+  font-size:20px;
+  font-family:system-ui;
+  letter-spacing: 2px
+}
+
+
+a{
+  color:#c1c1c1 ;
+  font-size: 40px;
+  text-decoration: none;
+  font-family: fantasy;
+  padding:20px;
+}
+#gallery{
+  background-image: url("https://www.bbcgoodfood.com/sites/default/files/glossary/beef.jpg");
+  background-size:cover;
+  height:1000px;
+  width:100%;
+}
+#topbar{
+  height:1000px;
+  width:100%;
+  background-color: rgba(0,0,0,0.4);
+}
+#logo{
+  height:200px;
+  width:200px;
+  margin:auto;
+  display: inline-block;
+  z-index:2;
+}
+a:hover{
+  color:white;
+}
+#toptable{
+  display: inline-block;
+  vertical-align: top;
+}
+#info{
+  height:700px;
+  background-color: rgba(0,0,0,0.4);
+  padding:100px;
+}
+#map{
+  height:450px;
+  width:675px;
+  background-image: url("map4.png");
+  display:inline-block;
+  background-size: contain;
+
+}
+#location{
+  display:inline-block;
+  vertical-align: top;
+  height:300px;
+  width:200px;
+  margin-left:100px;
+}
+#see,p,td{
+  font-family:serif;
+  font-size:20px;
+  color:white;
+  margin:1px;
+  padding:0px;
+}
+h1{
+  font-family:sans-serif;
+  color:white;
+  text-decoration: underline;
+}
+#bottem{
+  margin-bottom:10px;
+}
+#mapboarder{
+  border: 10px solid black;
+  border-radius: 10px
+
+}
+#contact{
+  display:inline-block;
+  vertical-align:top;
+  height:300px;
+  width:200px;
+  margin-left:100px;
+}
+#hours{
+  display:inline-block;
+  vertical-align: top;
+  height:300px;
+  width:200px;
+  margin-left:100px;
+}
+#instagram,#facebook,#snapchat,#twitter{
+  height:200px;
+  width:200px;
+}
+#media{
+
+}
