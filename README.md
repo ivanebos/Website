@@ -1,2 +1,2 @@
-# This project was a test project of a resturant
-learned the basics of html and css
+# Restaurant Website Project
+Created website for a restaurant
