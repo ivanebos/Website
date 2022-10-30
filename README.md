@@ -1,2 +1,8 @@
-# Restaurant Website Project
-Created website for a restaurant
+# Restaurant Website 
+
+Created unique website for a almandro restaurant
+
+## Using
+
+  - HTML
+  - CSS
